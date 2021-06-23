@@ -1,0 +1,10 @@
+C:\Users\TO-win\source\repos\Col1\Col1\bin\Debug\Col1.exe.config
+C:\Users\TO-win\source\repos\Col1\Col1\bin\Debug\Col1.exe
+C:\Users\TO-win\source\repos\Col1\Col1\bin\Debug\Col1.pdb
+C:\Users\TO-win\source\repos\Col1\Col1\obj\Debug\Col1.csproj.AssemblyReference.cache
+C:\Users\TO-win\source\repos\Col1\Col1\obj\Debug\Col1.Form1.resources
+C:\Users\TO-win\source\repos\Col1\Col1\obj\Debug\Col1.Properties.Resources.resources
+C:\Users\TO-win\source\repos\Col1\Col1\obj\Debug\Col1.csproj.GenerateResource.cache
+C:\Users\TO-win\source\repos\Col1\Col1\obj\Debug\Col1.csproj.CoreCompileInputs.cache
+C:\Users\TO-win\source\repos\Col1\Col1\obj\Debug\Col1.exe
+C:\Users\TO-win\source\repos\Col1\Col1\obj\Debug\Col1.pdb
